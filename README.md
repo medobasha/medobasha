@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working in [ITI as a trainee](for Machine Learning)
 
-- 🌱 I’m currently learning **NLP , Data mining**
+- 🌱 I’m currently learning **NLP , Computer Vision**
 
 - 👯 I’m looking to collaborate on **Computer Vision Projects**
 
